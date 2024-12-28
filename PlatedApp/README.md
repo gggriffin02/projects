@@ -75,4 +75,9 @@ The design process followed iterative refinement based on user feedback:
    ```bash
    git clone https://github.com/your-username/PlatedApp.git
 2. **Install Dependencies:**
+   ```bash
+   npm install
+3. **Clone the Repository:**
+   ```bash
+   npx expo start
    
