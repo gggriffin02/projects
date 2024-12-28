@@ -18,7 +18,7 @@ This folder contains two research papers that highlight the intersection of **ec
    - Difference-in-Differences (DiD) regression model.
    - County-level data on health outcomes and pollution exposure.
 
-**[Read More](Fresh_Air_for_Indiana_Mothers.pdf)**
+**[Read More](IndianaCoal)**
 
 ---
 
