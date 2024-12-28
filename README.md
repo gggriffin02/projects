@@ -16,6 +16,6 @@ Welcome! I'm Graham, an economics (BA) and computer science (MS) student with a 
 - [View Project](TossApp/README.md)
 
 
-### Data Analysis
+### Econometric Data Analysis
 - **Description:** Research projects focusing on economics, energy secutiry, and sustainability. Data analysis conducted in Python and R. 
 - [View Projects](DataAnalysis/)
