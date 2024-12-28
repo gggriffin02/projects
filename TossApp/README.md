@@ -1,50 +1,69 @@
-# Welcome to your Expo app 👋
+# TossApp
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Description
+TossApp is a social platform designed to enhance the experience of playing the game of die. The app combines a competitive **ELO ranking system** with social features, fostering a vibrant community of die enthusiasts. By streamlining game coordination and promoting social interaction, TossApp brings a structured and engaging experience to the game of die.
 
-## Get started
+Initially designed for die enthusiasts within our fraternity, the app allows users to:
+- Submit game scores.
+- Track rankings.
+- Engage with a community feed.
+- Coordinate games through the **"Need One"** feature.
 
-1. Install dependencies
+The app was developed using **React Native**, **Expo**, and **Firebase**, ensuring a seamless user experience with real-time data synchronization.
 
+---
+
+## Key Features
+1. **Game Feed:**
+   - View game results, scores, and players involved.
+   - Comment on and like games to engage with the community.
+
+2. **ELO Ranking System:**
+   - Track player rankings, ELO scores, and game records.
+   - Compare performance with peers on a dedicated **Rankings Page**.
+
+3. **"Need One" Feature:**
+   - Notify the community when you're looking for a player to join a game.
+   - Streamline game coordination with instant notifications.
+
+4. **Game Submission:**
+   - Submit ranked or unranked games easily with a scroll-and-select interface.
+   - Prevent invalid scores with built-in error handling.
+
+5. **Player Profiles:**
+   - View personalized profiles showing player photos, ELO scores, and records.
+
+6. **Real-Time Updates:**
+   - Integrated with Firebase to ensure rankings and game feeds are updated instantly.
+
+---
+
+## Technologies Used
+- **Frontend:** React Native and Expo Router
+- **Backend:** Firebase (Firestore, Authentication, Storage)
+- **Navigation:** Stack and Tab Navigation with Expo Router
+- **Error Handling:** Robust error messages to ensure data integrity
+
+---
+
+## Design Principles
+1. **Community Engagement:**
+   - Inspired by platforms like GroupMe and Instagram, TossApp fosters engagement through game reactions, likes, and comments.
+
+2. **Simplicity:**
+   - Minimalist design to ensure users can quickly log games and access key features without distraction.
+
+3. **Real-Life Connection:**
+   - Encourages in-person die games by avoiding complex virtual personas.
+
+4. **Moderation:**
+   - Reporting features and non-anonymous comments reduce toxicity.
+
+---
+
+## Setup Instructions
+
+1. **Clone the Repository:**
    ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+   git clone https://github.com/gggriffin02/projects.git
+   cd TossApp
