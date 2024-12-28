@@ -7,7 +7,7 @@ Welcome! I'm Graham, an economics and computer science student with a passion fo
 ### PlatedApp
 - **Description:** A recipe and meal planning app with a Tinder-like UI. Developed this app as part of CS147: Design Thinking for User Experience. For more information on our needfinding and design process, visit the our [website](https://hci.stanford.edu/courses/cs147/2024/au/projects/Design-for-Healthy-Behaviors/Plated/).
 
-- **Key Features:** Virtual pantry, recipe suggestions, Supabase backend.
+- **Key Features:** Virtual pantry, gemini-powered AI su chef, recipe suggestions, Supabase backend.
 - [View Project](PlatedApp/README.md)
 
 ### TossApp
@@ -17,5 +17,5 @@ Welcome! I'm Graham, an economics and computer science student with a passion fo
 
 
 ### Data Analysis
-- **Description:** Python and R projects focusing on energy economics and statistical modeling.
+- **Description:** Research projects focusing on economics, energy secutiry, and sustainability. Data analysis conducted in Python and R. 
 - [View Projects](DataAnalysis/)
