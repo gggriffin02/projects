@@ -1,4 +1,4 @@
-#Projects
+# Projects
 
 Welcome! I'm Graham, an economics and computer science student with a passion for designing and scaling software solutions. This repository showcases my work across various domains, including full-stack mobile app development, data analysis, and web development.
 
