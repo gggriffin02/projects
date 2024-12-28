@@ -71,9 +71,12 @@ The design process followed iterative refinement based on user feedback:
 ---
 
 ## Setup Instructions
+
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/PlatedApp.git
+   git clone https://github.com/gggriffin02/projects.git
+   cd PlatedApp
+
 2. **Install Dependencies:**
    ```bash
    npm install
