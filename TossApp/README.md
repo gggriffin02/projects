@@ -67,3 +67,15 @@ The app was developed using **React Native**, **Expo**, and **Firebase**, ensuri
    ```bash
    git clone https://github.com/gggriffin02/projects.git
    cd TossApp
+2. **Install Deperndencies**
+   ```bash
+   npm install
+3. **Start the Frontend**
+   ```bash
+   npx expo start
+4. **Start the Backend**
+   ```bash
+   cd backend
+   npx tsc
+   node dist/index.js
+
