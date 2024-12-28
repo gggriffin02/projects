@@ -33,7 +33,7 @@ This folder contains two research papers that highlight the intersection of **ec
    - Difference-in-Differences (DiD) model.
    - Geopolitical Risk Index (GPR) and FDI data.
 
-**[Read More](US_China_Lithium_FDI.pdf)**
+**[Read More](ArgentinaLithium)**
 
 ---
 
