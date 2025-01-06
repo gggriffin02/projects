@@ -49,11 +49,6 @@ PlatedApp incorporates several key values:
 
 ---
 
-## Screenshots
-*(Include screenshots of the swipe interface, pantry management system, and recipe upload screen.)*
-
----
-
 ## Design Evolution
 The design process followed iterative refinement based on user feedback:
 1. **Low-Fi Prototypes:**
