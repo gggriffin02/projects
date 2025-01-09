@@ -1,6 +1,6 @@
 # Projects
 
-Welcome! I'm Graham, an economics (BA) and computer science (MS) student with a passion for designing and scaling software solutions for energy security and sustainability. This repository showcases my work across various domains, including full-stack mobile app development, research, and data analysis.
+Welcome! I'm Graham, an economics (BA) and computer science (MS) student with a passion for designing and scaling software solutions for energy security and sustainability. This repository showcases my work across various domains, including full-stack mobile app development, design principles, and econometric research + analysis.
 
 ## Projects
 
